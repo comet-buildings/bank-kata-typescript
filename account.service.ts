@@ -3,3 +3,4 @@ export interface AccountService {
   withdraw(amount: number): void;
   printStatement(): void;
 }
+
